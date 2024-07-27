@@ -78,7 +78,7 @@ new BankAccount (1003, 3200),
 // Create customers
 const customers: Customer[] = [
     new Customer("Aliya", "Pervez", "Female", 30, 3216543210, accounts[0]),
-    new Customer("Mukesh", "Ambani", "Male", 58, 3456543209, accounts[1]),
+    new Customer("Mukesh", "Ambanii", "Male", 58, 3456543209, accounts[1]),
     new Customer("Maaz", "Khan", "Male", 32, 3336543208, accounts[2]),
 ]
 
