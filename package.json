@@ -1,5 +1,5 @@
 {
-  "name": "project11_oop_mybank",
+  "name": "@aliyapervez/project11_oop_mybank",
   "version": "1.0.0",
   "description": "This is CLI based OOP mybank project using Typescript , Nodejs and Inquirer",
   "main": "index.js",
