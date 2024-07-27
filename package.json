@@ -1,0 +1,22 @@
+{
+  "name": "project11_oop_mybank",
+  "version": "1.0.0",
+  "description": "This is CLI based OOP mybank project using Typescript , Nodejs and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliya pervez",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
